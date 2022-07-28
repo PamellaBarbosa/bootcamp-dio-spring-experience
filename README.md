@@ -1,2 +1,2 @@
 # bootcamp-dio-spring-experience
-Desafio do bootcamp da dio com springboot e java.
+Desafios de código e de projeto do bootcamp da dio com springboot e java.
