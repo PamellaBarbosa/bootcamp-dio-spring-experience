@@ -8,7 +8,7 @@ public class Mentoria extends Conteudo {
 	
 	private LocalDate data;
 	
-	public Mentoria() { //construtor vázio
+	public Mentoria() { //construtor vazio
 		
 	}
 	

@@ -10,8 +10,8 @@ public class Dev {
 //atributos privados, acesso apenas por gets e sets
 
 	private String nome;
-	private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>(); //ao decorrer das inscrições será guardadas as mesmas
-	private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>(); //ao decorrer das conclusões será guardadas as mesmas
+	private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>(); //ao decorrer das inscrições seram guardadas as mesmas
+	private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>(); //ao decorrer das conclusões seram guardadas as mesmas
 	
 
 	public String getNome() {
